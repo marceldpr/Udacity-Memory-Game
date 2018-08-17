@@ -13,8 +13,8 @@ This game was built as a project for the Udacity Front End Web Developer course.
 
 ## How to load the game
 
-• Clone the [repo](https://classroom.udacity.com/me) and open the index.html file --or--
-• Click [here](https://classroom.udacity.com/me)
+* • Clone the [repo](https://github.com/marceldpr/Udacity-Memory-Game.git) and open the index.html file --or--
+* • Click [here](http://htmlpreview.github.io/?https://github.com/marceldpr/Udacity-Memory-Game/blob/master/index.html)
 
 ## How to play
 
@@ -26,9 +26,9 @@ The game ends once all cards have been correctly matched.
 
 Scoring system:
 
-• 3 stars: 15 moves or less,
-• 2 stars: 23 moves or less,
-• 1 star: 24 moves or more.
+* • 3 stars: 15 moves or less,
+* • 2 stars: 23 moves or less,
+* • 1 star: 24 moves or more.
 
 ## Contributing
 
