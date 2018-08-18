@@ -6,6 +6,7 @@
 * [How to load the game](#loading)
 * [How to play](#loading)
 * [Contributing](#contributing)
+* [Built with](#Built)
 
 ## About the project
 
@@ -35,3 +36,8 @@ Scoring system:
 This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
 
 For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Built with
+
+* Google Fonts,
+* Font Awesome.

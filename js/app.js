@@ -228,6 +228,7 @@ function resetCards() {
 	const cards = document.querySelectorAll('.deck li');
 	for (let card of cards) {
 		card.className = 'card';
+		openCard = [];
 	}
 }
 
